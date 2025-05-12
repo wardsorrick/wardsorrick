@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wardsorrick
 - 👀 I’m interested in personal productivity, interior design, entrepreneurship, real estate, video games, and the list goes on. "I contain multitudes."
-- 🌱 I’m currently learning SQL, machine learning, digital marketing, and how to raise a toddler. 
+- 🌱 I’m currently learning about AI and being a dad to 2 daughters. 
 - 💞️ I’m looking to collaborate on marketing operations projects. 
 - 📫 How to reach me: @ward.sorrick on Slack! 
 
